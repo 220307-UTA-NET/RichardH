@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFW7erK5FhxhW/P30gZJrnHfPc0R5rshUD/e6K9jx4daRpfycQzQyQsZ33r9GzoyBtslVorjs6oMnQEbwCfc4A==",
+  "success": true,
+  "projectFilePath": "C:\\Revature\\220307-UTA-NET\\trainer_code\\wk-6\\DemoApp\\DemoApp.Api\\DemoApp.BusinessLogic\\DemoApp.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RichardHawkins\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\RichardHawkins\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RichardHawkins\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
+    "C:\\Users\\RichardHawkins\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\RichardHawkins\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\RichardHawkins\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

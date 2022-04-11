@@ -1,0 +1,15 @@
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\bin\Debug\net6.0\DemoApp.DataLogic.deps.json
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\bin\Debug\net6.0\DemoApp.DataLogic.dll
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\bin\Debug\net6.0\DemoApp.DataLogic.pdb
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\bin\Debug\net6.0\DemoApp.BusinessLogic.dll
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\bin\Debug\net6.0\DemoApp.BusinessLogic.pdb
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.csproj.AssemblyReference.cache
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.AssemblyInfoInputs.cache
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.AssemblyInfo.cs
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.csproj.CoreCompileInputs.cache
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.csproj.CopyComplete
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.dll
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\refint\DemoApp.DataLogic.dll
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.pdb
+C:\Revature\220307-UTA-NET\RichardH\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\ref\DemoApp.DataLogic.dll

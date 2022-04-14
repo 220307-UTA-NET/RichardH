@@ -36,5 +36,8 @@ jobs:
         with:
           dotnet-version: ${{ env.DOTNET_VERSION }}
           
+      - name: check folders
+        run: ls ./ -a
+          
       - name: Build the API with dotnet
-        run: dotnet build ./DemoApp/DemoApp.Api/DemoApp.Api.sln --configuration Release ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+        run: dotnet build ./DemoApp/DemoApp.Api/ --configuration Release ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}

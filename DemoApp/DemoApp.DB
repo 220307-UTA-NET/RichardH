@@ -90,4 +90,9 @@ VALUES
     'Perigrine',
     2,
     1
+),
+(
+    'mini',
+    2,
+    1
 );
